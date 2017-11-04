@@ -3,4 +3,4 @@
 
 # Why use this RFC
 
-Because no brain is better than all brains. 
+Because using a single brain is never better than using all brains. 
