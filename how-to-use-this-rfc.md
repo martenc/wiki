@@ -1,4 +1,4 @@
-<!-- TITLE: How To Use This RFC -->
+<!-- TITLE: Why Use This RFC -->
 <!-- SUBTITLE: Quick explanation of why we'd choose to socialize our ideas -->
 
 # Why use this RFC
